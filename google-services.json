@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "159619617717",
+    "firebase_url": "https://possas-f99cb.firebaseio.com",
+    "project_id": "possas-f99cb",
+    "storage_bucket": "possas-f99cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159619617717:android:a4858972b9a0f27c",
+        "android_client_info": {
+          "package_name": "com.rishy.procom.possas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159619617717-p5fgkp5tp6anbtmskqhu1ptg7mgnpuv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUDRRIPAa1w3S-wqJ59HQ2l5WtkS2W7eI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

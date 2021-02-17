@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="SAS">
+        <item>Sales</item>
+        <item>Service</item>
+    </string-array>
+
+    <string-array name="location">
+        <item>Aarey Road</item>
+        <item>Agripada</item>
+        <item>Altamount Road</item>
+       <item> Amboli </item>
+        <item>Andheri East</item>
+        <item>Andheri West</item>
+       <item>Anushakti Nagar</item>
+        <item>Azad Nagar</item>
+        <item>Bandra East</item>
+        <item>Bandra West</item>
+        <!--Bangur Nagar-->
+        <!--Behram Baug-->
+        <!--Bhandup East-->
+        <!--Bhandup West-->
+        <!--Bhayandar East-->
+        <!--Bhayandar West-->
+        <!--Bhiwandi-->
+        <!--Bhuleshwar-->
+        <!--Boisar-->
+        <!--Borivali East-->
+        <!--Borivali West-->
+        <!--Breach Candy-->
+        <!--Byculla East-->
+        <!--Byculla West-->
+        <!--C.P. Tank-->
+        <!--Chakala-->
+        <!--Chandivali-->
+        <!--Charkop-->
+        <!--Charni Road-->
+        <!--Chembur-->
+        <!--Chinchpokli-->
+        <!--Chira Bazar-->
+        <!--Chuna Bhatti-->
+        <!--Church Gate-->
+        <!--Colaba-->
+        <!--Cuffe Parade-->
+        <!--Cumballa Hill-->
+        <!--Currey Road-->
+        <!--Dadar East-->
+        <!--Dadar West-->
+        <!--Dahanu Road-->
+        <!--Dahisar East-->
+        <!--Dahisar West-->
+        <!--Deonar-->
+        <!--Dharavi-->
+        <!--Dombivli West-->
+        <!--Dongri-->
+        <!--Elphinstone Road-->
+        <!--Fort-->
+        <!--G T B Nagar-->
+        <!--Gamdevi-->
+        <!--Gandhi Nagar-->
+        <!--Ghatkopar East-->
+        <!--Ghatkopar West-->
+        <!--Girgaon-->
+        <!--Golibar-->
+        <!--Goregaon East-->
+        <!--Goregaon West-->
+        <!--Govandi-->
+        <!--Grant Road East-->
+        <!--Grant Road West-->
+        <!--Haji Ali-->
+        <!--J B Nagar-->
+        <!--Jacob Circle-->
+        <!--Jogeshwari East-->
+        <!--Juhu-->
+        <!--Juhu Tara Road-->
+        <!--Kalbadevi-->
+        <!--Kalina-->
+        <!--Kandivali East-->
+        <!--Kandivali West-->
+        <!--Kanjurmarg-->
+        <!--Kashimira-->
+        <!--Kemps Corner-->
+        <!--Khan Abdul Gafar Road-->
+        <!--Khar East-->
+        <!--Khar West-->
+        <!--Kharodi-->
+        <!--Khetwadi-->
+        <!--Kurla East-->
+        <!--LBS Marg-->
+        <!--Lal Baug-->
+        <!--Kurla West-->
+        <!--Link Road-->
+        <!--Linking Road-->
+        <!--Lokhandwala-->
+        <!--Lower Parel-->
+        <!--Mahalaxmi-->
+        <!--Senapati Bapat Marg-->
+        <!--Malad East-->
+        <!--Malad West-->
+        <!--Mandapeshwar-->
+        <!--Mankhurd-->
+        <!--Marine Lines-->
+        <!--Marol-->
+        <!--Masjid Bunder-->
+        <!--Matunga East-->
+        <!--Matunga West-->
+        <!--Mazgaon-->
+        <!--Mira Bhayandar-->
+        <!--Mira Road-->
+        <!--Mulund East-->
+        <!--Mulund West-->
+        <!--Mumbai Central-->
+        <!--Nahur East-->
+        <!--Naigaon East-->
+        <!--Naigaon West-->
+        <!--Nalasopara East-->
+        <!--Nalasopara West-->
+        <!--Nariman Point-->
+        <!--Navghar Road-->
+        <!--Nehru Nagar-->
+        <!--Nehru Road-->
+        <!--Mandvi-->
+        <!--Opera House-->
+        <!--Orlem Malad-->
+        <!--Oshiwara-->
+        <!--Pali Hill-->
+        <!--Parel-->
+        <!--Peddar Road-->
+        <!--Poonam Nagar-->
+        <!--Powai-->
+        <!--Prabhadevi-->
+        <!--Pydhonie-->
+        <!--Raigad-->
+        <!--S V Road-->
+        <!--Sakinaka-->
+        <!--Santacruz East-->
+        <!--Santacruz West-->
+        <!--Sewri-->
+        <!--Shastri Nagar-->
+        <!--Shivaji Park-->
+        <!--Sion East-->
+        <!--Sion West-->
+        <!--Tardeo-->
+        <!--Thakurdwar-->
+        <!--Tilak Nagar-->
+        <!--Trombay-->
+        <!--Tulsiwadi-->
+        <!--Vakola-->
+        <!--Veera Desai Road-->
+        <!--Versova-->
+        <!--Vidya Nagari-->
+        <!--Vidyavihar-->
+        <!--Vijay Nagar-->
+        <!--Vikhroli East-->
+        <!--Vikhroli West-->
+        <!--Vile Parle East-->
+        <!--Vile Parle West-->
+        <!--Virar East-->
+        <!--Virar West-->
+        <!--Wadala East-->
+        <!--Wadala West-->
+        <!--Walkeshwar-->
+        <!--Warden Road-->
+        <!--Western Express Highway-->
+        <!--Worli-->
+        <!--Yari Road-->
+        <!--Jogeshwari West-->
+        <!--Kalyan West-->
+        <!--Karjat-->
+        <!--Kasara-->
+        <!--Khopoli-->
+        <!--Upper Parel-->
+        <!--Vasai West-->
+        <!--Vasai East-->
+        <!--Vikramgad-->
+        <!--Mumbai - Nasik Highway-->
+        <!--Ambivali-->
+        <!--Sahar-->
+        <!--Madh-->
+        <!--Triveni Nagar-->
+        <!--Prabhu Ali-->
+        <!--Chinchpada-->
+        <!--Bhadane-->
+        <!--Wada-->
+        <!--Neral-->
+        <!--Nahur West-->
+        <!--Samat Nagar-->
+        <!--Sarvodaya Nagar-->
+        <!--MHADA Colony-->
+        <!--Chedda Nagar-->
+        <!--Shivaji Nagar-->
+        <!--Beverly Park-->
+        <!--Naya Nagar-->
+        <!--Govind Nagar-->
+        <!--Yogi Jawraj Nagar-->
+        <!--IC Colony-->
+        <!--Kanti Park-->
+        <!--Dindoshi-->
+        <!--Evershine Nagar-->
+        <!--Chikuwadi-->
+        <!--Malvani-->
+        <!--Royal Palms-->
+        <!--Gokuldam-->
+        <!--Narayan Patil Wadi-->
+        <!--Upper Worli-->
+        <!--Umerkhadi-->
+        <!--Nagpada-->
+        <!--Ramnagar-->
+        <!--Alibag-->
+        <!--Gulmohar Road-->
+        <!--Murbad Road-->
+        <!--Titwala-->
+        <!--Vasind-->
+        <!--Khadakpada-->
+        <!--Kanakia Road-->
+        <!--Saralgoan-->
+        <!--Ambernath-->
+        <!--Chiplun-->
+        <!--Khandas Road-->
+        <!--Malabar Hill-->
+        <!--Ulhasnagar-->
+        <!--Saravali-->
+        <!--Palghar-->
+        <!--Jawhar-->
+        <!--Khandale-->
+        <!--Bandra Kurla Complex-->
+        <!--Andheri-Kurla Road-->
+        <!--Mahavir Nagar-->
+        <!--V P ROAD-->
+        <!--Kolad-->
+        <!--Vitthalwadi-->
+        <!--Vasai Road-->
+        <!--Carter Road-->
+        <!--Murbad-->
+        <!--Shahapur-->
+        <!--Badlapur East-->
+        <!--Ghera Sudhagad-->
+        <!--Mahad-->
+        <!--Lonere-->
+        <!--Roha-->
+        <!--Uttan-->
+        <!--Vasai-Nallasopara Link Road-->
+        <!--Harihareshwar-->
+        <!--Kalyan East-->
+        <!--Murbad Karjat Road-->
+        <!--Asangaon-->
+        <!--Shahad-->
+        <!--Badlapur West-->
+        <!--Kalher-->
+        <!--Dahanu-->
+        <!--Bhivpuri-->
+        <!--Atgaon-->
+        <!--Kalyan-Shil Road-->
+        <!--Dombivli East-->
+        <!--Gaibi Nagar-->
+        <!--Agashi-->
+        <!--Thakurli-->
+        <!--Navapada-->
+        <!--Sir JJ Road-->
+        <!--Vangani-->
+        <!--Murud-->
+        <!--Pali-->
+        <!--Gorai-->
+        <!--Talasari-->
+        <!--Nagothane-->
+        <!--Khardi-->
+        <!--Kamatghar-->
+        <!--Mahim-->
+        <!--Khodala-->
+        <!--Manori-->
+        <!--Zadghar-->
+        <!--Antop Hill-->
+        <!--Mulund Colony-->
+        <!--LBS Marg-Mulund-->
+        <!--Kanjurmarg East-->
+        <!--Kannamwar Nagar-->
+        <!--Panth Nagar-->
+        <!--barve Nagar-->
+        <!--chirag Nagar-->
+        <!--vidyavihar West-->
+        <!--vidyavihar East-->
+        <!--postal Colony-->
+        <!--Jai Ambe Nagar-->
+        <!--Sindhi Society-->
+        <!--Borla-->
+        <!--Ghatla-->
+        <!--chembur Colony-->
+        <!--Sahakar Nagar-->
+        <!--kidwai Nagar-->
+        <!--sewri West-->
+        <!--Ambernath East-->
+        <!--Ambernath West-->
+        <!--Manor-->
+        <!--Vehloli-->
+        <!--Vindhane-->
+        <!--Boraj-->
+        <!--Umroli-->
+        <!--Nagaon-->
+        <!--Dohole-->
+        <!--Shelu-->
+        <!--Sakawar-->
+        <!--Gokuldham Colony-->
+        <!--Magathane-->
+        <!--Ghodbunder-->
+        <!--Netaji Nagar-->
+        <!--Best Nagar-->
+        <!--Kajupada-->
+        <!--Dhamote-->
+        <!--Kharbao-->
+        <!--Anand park-->
+        <!--Kopargaon-->
+        <!--Matunga-->
+        <!--Govandi East-->
+        <!--Hariyali-->
+        <!--Tungareshwar-->
+    </string-array>
+
+
+</resources>
